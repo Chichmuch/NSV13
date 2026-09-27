@@ -209,9 +209,9 @@
 	icon = 'nsv13/icons/overmap/new/solgov/dullahan.dmi'
 	icon_state = "frigate"
 	mass = MASS_MEDIUM_SMALL
-	sprite_size = 96
+	sprite_size = 48
 	// damage_states = TRUE
-	bound_width = 48
+	bound_width = 96
 	bound_height = 96
 	obj_integrity = 500
 	max_integrity = 500
